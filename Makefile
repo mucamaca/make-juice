@@ -9,7 +9,7 @@ ifeq ($(MAKEFLAGS), s)
 	echo "mixing ..."
 	sleep 1
 	echo "                          ""   88             88   "                     
-	echo "                  ___     " "   \"\"             \"\"   "                     
+	echo "                  ___     " "  \"\"             \"\"   "                     
 	echo "                 /.--     "
 	echo "                //        ""   88 88       88 88  ,adPPYba,  ,adPPYba, " 
 	echo "               //         ""   88 88       88 88 a8\"     \"\" a8P_____88  "
