@@ -15,9 +15,9 @@ ifeq ($(MAKEFLAGS), s)
 	echo "               //         ""   88 88       88 88 a8\"     \"\" a8P_____88  "
 	echo "    \~~~~~~~~~~''~~~/     ""   88 88       88 88 8b         8PP\"\"\"\"\"\"\"  "
 	echo "     \  o    o     /      ""   88 \"8a,   ,a88 88 \"8a,   ,aa \"8b,   ,aa  "
-	echo "      \        o  /       ""   88  \`\"YbbdP'Y8 88  \`\"Ybbd8\"\'  \`\"Ybbd8\"\'  " 
+	echo "      \        o  /       ""   88  \`\"YbbdP'Y8 88  \`\"Ybbd8\"'  \`\"Ybbd8\"'  " 
 	echo "       \   O     /        ""  ,88                                       "
-	echo "        \       /         "" 888P\"  "
+	echo "        \       /         "" 888P  "
 	echo "         \   o /          "
 	echo "          \___/           "  
 	echo
