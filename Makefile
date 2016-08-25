@@ -4,7 +4,7 @@ ifeq ($(MAKEFLAGS), s)
 	echo
 	echo "squeezing lemons and oranges"
 	sleep 0.5
-	echo "adding delute water"
+	echo "adding water"
 	sleep 0.8
 	echo "mixing ..."
 	sleep 1
@@ -25,19 +25,5 @@ ifeq ($(MAKEFLAGS), s)
 	echo
 else
 	make juice MAKEFLAGS=s
-endif   
-
-
-
-
-
-
-
-
-
-
-
-#"          \___/           "
-#"          _)_(_           "
-
+endif
 
